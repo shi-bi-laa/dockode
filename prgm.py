@@ -1,6 +1,6 @@
 rows=int(input())
 cols=int(input())
-lines=["___","/","\\"," "]
+lines=["_","/","\\"," "]
 if cols%2==1:
     evecir=(cols+1)//2
 else:
